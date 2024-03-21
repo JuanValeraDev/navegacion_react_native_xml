@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BotonIntegratedRNProject</string>
+    <string name="go_to_react_native">Go to React Native</string>
+    <string name="vista_XML">Vista nativa cargada desde un XML</string>
+</resources>
