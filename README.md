@@ -1,0 +1,3 @@
+Este es un ejemplo de cómo crear una aplicación que arranque desde la pantalla inicial nativa de Android, una vista inflada con XML, y que se pueda navegar hacia otra vista creada con javascript en React Native y viceversa.
+
+He utilizado un Mac, el proyecto android está en Kotlin con Groovy y el emulador ha sido un Pixel 4 api 33. Para ver la información sobre cómo hacerlo paso a paso puedes dirigirte aquí: https://project.digio.es/projects/practicas/wiki/navegacion-entre-vistas-xml-y-vistas-react-native
